@@ -10,7 +10,7 @@ classdef mdp
         policy=containers.Map;
         policy_vector;
         new_states=[];
-        ploton=1;
+        ploton=0;
    end
     properties(Dependent, SetAccess = public)
         reward;
