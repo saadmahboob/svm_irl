@@ -19,7 +19,9 @@ After Doing value iteration, we get a policy (left side) for the original reward
 
 **Note:** While Running you won't see this because ploton is 0 in mdp class because there is another plot of learned reward which is shown below, it changes as I am taking random demonstration from the policy.
 
-![alt text](https://github.com/srikanthmalla/svm_irl/blob/master/value_iteration%20and%20original%20reward.png "Policy with Value Iteration, Original Reward")
+#### Policy with Value Iteration, Original Reward: ####
+![alt text](https://github.com/srikanthmalla/svm_irl/blob/master/value_iteration%20and%20original%20reward.png )
 
-![alt text](https://github.com/srikanthmalla/svm_irl/blob/master/learned_reward.png "Learnt Reward")
+#### Learnt Reward: #### 
+![alt text](https://github.com/srikanthmalla/svm_irl/blob/master/learned_reward.png)
 
